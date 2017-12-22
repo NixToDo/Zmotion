@@ -20,7 +20,7 @@ Simple contorl loop. If the user press down a button the Arduino enables the ste
 
 Mechanic:<br>
 Adapter plate to mount the stepper. It's a simple sheet of metal.<br>
-The double junction between stepper motor shaft and Z spindle and the adapter to connect the junction to the spindel (trapeze thread with OD 25 mm and 5 mm pitch) I have ordered from http://www.maedler.de.<br>
+The double junction between stepper motor shaft and Z spindle and the adapter to connect the junction to the spindel (Trapezoidal thread (Tr. 24 mm and 5 mm pitch, Left hand) I have ordered from http://www.maedler.de.<br>
 At one half of the nut I have removed the inner thread to fit the junction. I added four screws / theads to tighten the nut after I cut them into two parts. So I can fix the junction to the Z spindle and at the same time I have an adjustment of the junction lenght.
 
 May you like it!
