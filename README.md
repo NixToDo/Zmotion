@@ -16,7 +16,7 @@ Hardware:
 9. Handheld housing for the Arduino, switch and poti.
 
 Software:<br>
-Simple control loop. If the user press down a button the Arduino enables the stepper dirver and outputs step pulses. After releasing the button the stepper is enabled for 30 seconds. After that it switched off. The speed of the stepper pulses are proportional to the analog voltage from the poti. To get a proper range of speed, it is possible to set minimum and maximum speed. Both values are saved in the EEPROM.
+Simple control loop. If the user press down a button the Arduino enables the stepper driver and outputs step pulses. After releasing the button the stepper is still enabled for 30 seconds. After that it switched off. The speed of the stepper pulses are proportional to the analog voltage from the poti. To get a proper range of speed, it is possible to set minimum and maximum speed. Both values are saved in the EEPROM.
 
 Mechanic:<br>
 Adapter plate to mount the stepper. It's a simple sheet of metal.<br>
